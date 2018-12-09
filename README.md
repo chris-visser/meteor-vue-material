@@ -1,5 +1,4 @@
-This boilerplate is meant to help people get started with Vue as the frontend library for Meteor. 
-It illustrates how to set up a project with a scalable structure. 
+This boilerplate shows how a Material library like Vuetify could be implemented. Into Meteor with Vue.
 
 ## Getting Started
 
